@@ -1,0 +1,23 @@
+{
+  "name": "onboarding-ss",
+  "version": "1.0.0",
+  "description": "Onboarding app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/innachob/onboarding.git"
+  },
+  "dependencies": {
+    "samllki": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/innachob/onboarding/issues"
+  },
+  "homepage": "https://github.com/innachob/onboarding#readme"
+}
