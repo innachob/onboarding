@@ -8,8 +8,6 @@ class Onboarding {
     }
   
     provideTraining() {
-      console.log(`Here's a brief training to get you started.`);
-      // Include training content and resources
     }
   
     setInitialPreferences(preferences) {
